@@ -1,0 +1,5 @@
+Credentials cache: API:26629
+        Principal: rariosa-@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  8 23:33:10 2017  Aug  9 09:33:10 2017  krbtgt/42.US.ORG@42.US.ORG
