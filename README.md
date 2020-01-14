@@ -1,3 +1,5 @@
+![HitCount](http://hits.dwyl.io/mrrobb/42_piscine.svg)
+
 # 42_piscine
 My solutions for the piscine. August 2017.
 
