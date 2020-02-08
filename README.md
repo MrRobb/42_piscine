@@ -36,4 +36,4 @@ My solutions for the piscine. August 2017.
     <img src="https://i.imgur.com/61OZ7lE.jpg" width=35%>
 	</a>
 </p>
-<p align="center">3KRM66geiaXWzqs5hRb35dGiQEQAa6JTYU</p>
+<p align="center">BTC address: 3KRM66geiaXWzqs5hRb35dGiQEQAa6JTYU</p>
