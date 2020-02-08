@@ -28,3 +28,12 @@ My solutions for the piscine. August 2017.
 | Match / nMatch 	| [Match / nMatch](https://github.com/MrRobb/42_piscine/tree/master/match/proj01.en.pdf)     	| [Beautiful](https://github.com/MrRobb/42_piscine/tree/master/match)                     	|
 | EvalExpr       	| [Calculator](https://github.com/MrRobb/42_piscine/tree/master/evalExpr/proj02.en.pdf)      	| [Not bad](https://github.com/MrRobb/42_piscine/tree/master/evalExpr)                    	|
 | BSQ            	| [BSQ](https://github.com/MrRobb/42_piscine/tree/master/bsq/bsq.en.pdf)                     	| [Fastest but tricky](https://github.com/MrRobb/42_piscine/tree/master/BSQ)              	|
+
+## Donation (BTC)
+
+<p align="center">
+  <a href="https://i.imgur.com/61OZ7lE.jpg">
+    <img src="https://i.imgur.com/61OZ7lE.jpg" width=35%>
+	</a>
+</p>
+<p align="center">3KRM66geiaXWzqs5hRb35dGiQEQAa6JTYU</p>
